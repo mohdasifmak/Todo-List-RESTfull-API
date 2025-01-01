@@ -11,15 +11,23 @@ This project is a REST API for managing a to-do list, built using Node.js, Expre
 
 ## Setup Instructions
 1. Clone the repository:
+   
    git clone <repository-url>
+   
 Navigate to the project directory:
+
 cd project-folder
 
 Install dependencies:
+
 npm install
+
 Start MongoDB on your local machine.
+
 Start the server:
+
 npm start
+
 The server will run at http://localhost:3000.
 
 API Endpoints
@@ -43,4 +51,5 @@ Mongoose
 Body-Parser
 
 Notes
+
 Ensure MongoDB is running on your system before starting the application.
